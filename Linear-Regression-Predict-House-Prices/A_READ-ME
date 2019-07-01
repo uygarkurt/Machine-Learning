@@ -1,0 +1,2 @@
+This is a homework from Coursera Machine Learning course. Data is given with one and more predictors(room number, size etc.) and
+one response(price). We fit linear regression model to given data.
