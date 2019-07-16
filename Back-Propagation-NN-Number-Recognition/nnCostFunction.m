@@ -79,7 +79,6 @@ J=(-1/m)*sum(sum((newy.*log(h))+(1-newy).*log(1-h)));
 newTheta1=Theta1; newTheta1(:,1)=[];
 newTheta2=Theta2; newTheta2(:,1)=[];
 J=(-1/m)*sum(sum((newy.*log(h))+(1-newy).*log(1-h)))+(lambda/(2*m))*((sum(sum(newTheta1.^2)))+sum(sum(newTheta2.^2)));
-%disp("--------"); disp(nn_params); disp(input_layer_size); disp(hidden_layer_size); disp(num_labels);
 
 for t=1:m
     a1=X(t,:);
