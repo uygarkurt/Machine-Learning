@@ -1,0 +1,3 @@
+At this homework we practiced unsupervised learning. Implemented a K-means clustering algorithm and applied it to compress an image.
+Then applied PCA(principal component analysis) to face images to find a low dimensional representation of them which speeds up our
+future learning algorithm.
