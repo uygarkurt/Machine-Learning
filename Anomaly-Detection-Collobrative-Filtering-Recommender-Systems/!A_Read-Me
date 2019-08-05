@@ -1,0 +1,3 @@
+This is the last programming assignment of the course. Where we implement anomaly detection algorithms to detect failing servers on a network,
+and use collobrative filtering algorithm to build a movie recommender system depending on the given ratings by predicting how much user would
+rate that movie.
